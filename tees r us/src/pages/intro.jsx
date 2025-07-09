@@ -1,6 +1,9 @@
-import React from "react";
-import { link } from "react-dom";
+import React from 'react';
 
-const intro = () => {
-    <div>Intro</div>
-}
+const Intro = () => {
+    return (
+        <div>Intro</div>
+    );
+};
+
+export default Intro;
