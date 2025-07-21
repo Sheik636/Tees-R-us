@@ -2,7 +2,7 @@ import React from 'react';
 
 const Intro = () => {
     return (
-        <div>Intro</div>
+        <h1>Tees R us</h1>
     );
 };
 
