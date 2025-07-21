@@ -2,7 +2,7 @@ import React from 'react';
 
 const Intro = () => {
     return (
-        <h1>Tees R us</h1>
+        <button>Tees R us</button>
     );
 };
 
