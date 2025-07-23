@@ -1,9 +1,11 @@
 import React from 'react';
+import '../index.js';
+
 
 const Intro = () => {
     return (
-        <div>
-            <button className='bg-sky-500 text-9xl rounded-xl '>Tees R us</button>
+        <div className='flex items-center justify-center h-screen '>
+           
         </div>
         
     );
